@@ -14,3 +14,6 @@ z.backward()
 
 # After calling backward(), the gradients are stored in x.grad
 print(x.grad)  # Output will be the derivative of z w.r.t x, which is 12.
+
+
+
